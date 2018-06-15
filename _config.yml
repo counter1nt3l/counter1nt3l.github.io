@@ -13,7 +13,7 @@ share:
   email: true
 
 social:
-  github: counter1nt3l
+  email: counter1nt3l@outlook.com
   rss: feed.xml
 
 permalink: /:year/:month/:title
