@@ -13,7 +13,6 @@ share:
   email: true
 
 social:
-  email: counter1nt3l@outlook.com
   rss: feed.xml
 
 permalink: /:year/:month/:title
